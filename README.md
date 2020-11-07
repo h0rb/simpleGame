@@ -1,7 +1,7 @@
 # simpleGame
 Simple game written in C and optimized for Linux 
 
-#Downloading dependencies:
+Downloading dependencies:
 
 In order to compile the code, you need to download ```libncurses5-dev``` and ```libncursesw5-dev```
 
